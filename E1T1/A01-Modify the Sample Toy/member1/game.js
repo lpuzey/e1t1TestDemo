@@ -61,7 +61,7 @@ PS.init = function( system, options ) {
 	
 	// Change status line color and text
 
-	PS.statusColor( PS.COLOR_WHITE );
+	PS.statusColor( PS.COLOR_RED );
 	PS.statusText( "Touch any bead" );
 	
 	// Preload click sound
